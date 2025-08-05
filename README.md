@@ -6,7 +6,7 @@ This end-to-end data analytics project was designed to uncover customer behavior
 ---
 
 ## Tools & Technologies
-- **Python**: Pandas, Seaborn, Matplotlib
+- **Python**: Pandas, Matplotlib
 - **MySQL**: Database for customer and account data
 - **Power BI**: Dashboarding and stakeholder visualization
 - **MySQL Connector**: Used to connect Python and MySQL
