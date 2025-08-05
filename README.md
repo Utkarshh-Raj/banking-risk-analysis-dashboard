@@ -46,7 +46,7 @@ This end-to-end data analytics project was designed to uncover customer behavior
 ---
 
 ## Dashboard Preview
-![Dashboard Screenshot](Banking Analysis/Banking/DashBoard/HOME.png)(Banking Analysis/Banking/DashBoard/SUMMARY.png)
+![Dashboard Screenshot](Banking Analysis/Banking/DashBoard/HOME.png)
 
 
 ## Dependencies
