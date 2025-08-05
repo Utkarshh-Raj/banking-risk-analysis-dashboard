@@ -46,7 +46,7 @@ This end-to-end data analytics project was designed to uncover customer behavior
 ---
 
 ## Dashboard Preview
-![Dashboard Screenshot](Banking Analysis/Banking/DashBoard/HOME.png)
+![Dashboard Screenshot](https://github.com/Utkarshh-Raj/banking-risk-analysis-dashboard/blob/main/Banking%20Analysis/Banking/DashBoard/HOME.png)
 
 
 ## Dependencies
