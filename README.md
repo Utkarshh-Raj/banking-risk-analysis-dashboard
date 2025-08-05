@@ -53,17 +53,17 @@ This end-to-end data analytics project was designed to uncover customer behavior
 ---
 
 ### Loan Analysis Page
-![Summary Dashboard]([assets/summary_dashboard.png](https://github.com/Utkarshh-Raj/banking-risk-analysis-dashboard/blob/main/Banking%20Analysis/Banking/DashBoard/LOAN_ANALYSIS.png))
+![Summary Dashboard](https://github.com/Utkarshh-Raj/banking-risk-analysis-dashboard/blob/main/Banking%20Analysis/Banking/DashBoard/LOAN_ANALYSIS.png)
 
 ---
 
 ### Deposit Analysis Page
-![Summary Dashboard]([assets/summary_dashboard.png](https://github.com/Utkarshh-Raj/banking-risk-analysis-dashboard/blob/main/Banking%20Analysis/Banking/DashBoard/DEPOSIT_ANALYSIS.png))
+![Summary Dashboard](https://github.com/Utkarshh-Raj/banking-risk-analysis-dashboard/blob/main/Banking%20Analysis/Banking/DashBoard/DEPOSIT_ANALYSIS.png)
 
 ---
 
 ### Summary Page
-![Summary Dashboard]([assets/summary_dashboard.png](https://github.com/Utkarshh-Raj/banking-risk-analysis-dashboard/blob/main/Banking%20Analysis/Banking/DashBoard/SUMMARY.png))
+![Summary Dashboard](https://github.com/Utkarshh-Raj/banking-risk-analysis-dashboard/blob/main/Banking%20Analysis/Banking/DashBoard/SUMMARY.png)
 
 ---
 
